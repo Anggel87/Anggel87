@@ -14,6 +14,12 @@
 
 <br>
 
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180"/>
+
+<br>
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/angelheribertors/" target="blank"><img align="center"
@@ -23,8 +29,6 @@
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
 </p>
-
-<br>
 
 ---
 
