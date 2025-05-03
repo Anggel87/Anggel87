@@ -10,9 +10,9 @@
 <div>
 <h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
   <div align="center">
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="160" align="right"/>
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="190" align="right"/>
   </div>
-<br>
+<br><br>
 <li>
 <b>Age:</b> 20 years old.
 </li>
@@ -28,6 +28,7 @@
 <br><br><br>
 </div>
 
+<br>
 
 <h2 align="center">~ 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮 ~</h2>
 <p align="center">
@@ -57,6 +58,7 @@
  
 </p>
 
+<br>
 <br>
 <br>
 
@@ -100,10 +102,12 @@
 
 <br>
 <br>
+<br>
 
 <h2 align="center">~ 𝓢𝓽𝓪𝓽𝓼 ~</h2>
 
 <br>
+
 <p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api?username=Anggel87&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
     alt="Anggel87" 
