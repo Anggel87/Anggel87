@@ -1,39 +1,67 @@
+<h2 align="center"> 𝓗𝓲, 𝓘'𝓶 𝓐𝓷𝓰𝓮𝓵. <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
-<h2> Hi, I'm Angel! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-
+<br>
 <br>
 
+<div>
+<h2 align="center"> ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ </h2>
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="160" align="right"/>
+  </div>
 <br>
+<li>
+<b>Age:</b> 20 years old.
+</li>
+<li>
+<b>Loves:</b> games, music, anime
+</li>
+<li>
+<b>Gender:</b> he/him
+</li>
+<li>
+<b>Hobbys:</b> Tech Stuff, Web Development
+</li>
+<br><br><br>
+</div>
 
-- 🌱 I’m currently learning Web Development and other programming languages
 
-- 📫 How to reach me **angelheriberto87@gmail.com**
+<h2 align="center">~ 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮 ~</h2>
+<p align="center">
 
-<br>
+<p align="center">
 
-  <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180"/>
+ <a href="https://www.linkedin.com/in/angelheribertors/">
+ 
+ <img border="0" alt="Hrugved's LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"/>
+ </a>
 
-<br>
+ <a href="https://x.com/AngelRS87">
+ <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
+ </a>
 
----
+ <a href="https://www.instagram.com/anyelo.vue/">
+ <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
+ </a>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/angelheribertors/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/anyelo.vue/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>
+ <!--<a href="https://discord.com/invite/5RmW6dZKpe6">
+ <img border="0" alt="anyelo_" src="https://img.icons8.com/fluent/42/000000/discord-logo.png"/>
+ </a>-->
+ 
+ <a href="mailto:angelheriberto87@gmail.com">
+ <img border="0" alt="anyelo's Mail" src="https://img.icons8.com/doodle/38/000000/gmail-new.png"/>
+ </a>
+ 
 </p>
 
----
+<br>
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<h2 align="center">~ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 ~</h2>
+<p align="center"> 
   <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" /> 
   </a> 
@@ -74,18 +102,18 @@
 </p>
 
 <br>
+<br>
 
----
+<h2 align="center">~ 𝓢𝓽𝓪𝓽𝓼 ~</h2>
 
-<h3>Statistical Data :</h3>
-
-<p><img align="center"
+<br>
+<p align="center"><img align="center"
     src="https://github-readme-stats.vercel.app/api?username=Anggel87&theme=vue-dark&show_icons=true&hide_border=true&count_private=true"
     alt="Anggel87" 
     bg_color=#808080/></p>
 
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anggel87&theme=vue-dark&hide_border=true"
+<p align="center">&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Anggel87&theme=vue-dark&hide_border=true"
     alt="Anggel87" /></p>
 
 <br>
@@ -95,11 +123,8 @@
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
 
-### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/nzg39a66j9fh25gpodlrv2lg6)
-
----
 
 
 <br>
