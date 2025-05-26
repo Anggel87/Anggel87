@@ -14,7 +14,7 @@
   </div>
 <br><br>
 <li>
-<b>Age:</b> 20 years old.
+<b>Age:</b> 21 years old.
 </li>
 <li>
 <b>Loves:</b> games, music, anime
