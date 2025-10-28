@@ -44,7 +44,7 @@
  <img border="0" alt="Hrugvedtwts" src="https://img.icons8.com/nolan/40/twitter.png"/>
  </a>
 
- <a href="https://www.instagram.com/anyelo.vue/">
+ <a href="https://www.instagram.com/anyelo.ts/">
  <img border="0" alt="Hrugved's IG" src="https://img.icons8.com/doodle/38/000000/instagram--v1.png"/>
  </a>
 
