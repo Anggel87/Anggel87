@@ -4,7 +4,7 @@
   <img src="https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt="Snake animation"/>
 </p>
 
----
+
 
 <h2 align="center">~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~</h2>
 
@@ -19,7 +19,7 @@
 
 <br clear="right"/>
 
----
+
 
 <h2 align="center">~ 𝓒𝓸𝓷𝓷𝓮𝓬𝓽 𝔀𝓲𝓽𝓱 𝓶𝓮 ~</h2>
 
@@ -38,7 +38,8 @@
   </a>
 </p>
 
----
+
+<br>
 
 <h2 align="center">~ 𝓛𝓪𝓷𝓰𝓾𝓪𝓰𝓮𝓼 𝓪𝓷𝓭 𝓣𝓸𝓸𝓵𝓼 ~</h2>
 
@@ -107,13 +108,10 @@
   </tr>
 </table>
 
----
+
+<br>
 
 <h2 align="center">~ 𝓢𝓽𝓪𝓽𝓼 ~</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anggel87&theme=vue-dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" alt="Anyelo's GitHub Stats"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anggel87&theme=vue-dark&hide_border=true" alt="Anyelo's Streak"/>
@@ -123,7 +121,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anggel87&theme=vue-dark&hide_border=true&layout=compact" alt="Top Languages"/>
 </p>
 
----
+
+<br>
+
 
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif"/>
 
