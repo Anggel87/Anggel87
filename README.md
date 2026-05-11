@@ -12,7 +12,7 @@
   <img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" width="180" align="right"/>
 </div>
 
-- 🎂 **Age:** 21 years old
+- 🎂 **Age:** 22 years old
 - 🎮 **Loves:** Games, music & anime
 - 👤 **Pronouns:** he/him
 - 💻 **Hobbies:** Tech stuff & web development
